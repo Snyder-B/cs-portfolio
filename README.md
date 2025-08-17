@@ -4,7 +4,7 @@ This repository contains selected work from SNHU CS 250 (Scrum/Agile) and other 
 
 ## Courses Included
 - CS 250: Software Development Life Cycle (Agile/Scrum)
-- More to come…
+- 
 
 ## Highlights (CS 250)
 - Sprint Review & Retrospective (Word)
@@ -15,4 +15,4 @@ This repository contains selected work from SNHU CS 250 (Scrum/Agile) and other 
 Open the `/CS250` folder (or relevant subfolders) to find deliverables.
 
 ## Contact
-LinkedIn: <your link> • Email: <your email>
+LinkedIn: <your link> • Email: <bsnyder2585@gmail.com>
